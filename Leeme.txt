@@ -1,0 +1,19 @@
+Bienvenido a la aplicación que he creado :D
+
+-------------------
+| Consideraciones |
+-------------------
+
+- La lista de usuarios activos se actualiza cada segundo automáticamente.
+- No se puede poner una contraseña, ni añadir o eliminar contactos. Pon solamente tu Nombre y
+ya está. 
+- Si la situación lo requiere, se puede cambiar la ip y puerto del servidor. 
+(Pero cada vez que se abre la aplicación habrá que configurarlo porque no funciona la base de datos)
+- En la parte inferior derecha del programa hay un icono de Wifi, este icono indica el estado
+de conexion que tienes con el servidor. 
+!NO OS PONGÁIS EL MISMO NOMBRE DE USUARIO!
+> Puede dar problemas serios a la hora de gestionar las peticiones. 
+
+(jdk1.8.0_111) !ESTÁ CARPETA TIENE QUE ESTAR, SI NO, NO FUNCIONA LA APLICACIÓN!
+
+C:\Program Files\Java\jdk1.8.0_111
