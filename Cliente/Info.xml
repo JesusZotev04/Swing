@@ -13,7 +13,7 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>C:\Users\alumno\Downloads\Logo.ico</icon>
+  <icon>C:\Users\Jesus\Downloads\Logo.ico</icon>
   <jre>
     <path>C:\Program Files\Java\jdk1.8.0_111\jre</path>
     <requiresJdk>false</requiresJdk>
